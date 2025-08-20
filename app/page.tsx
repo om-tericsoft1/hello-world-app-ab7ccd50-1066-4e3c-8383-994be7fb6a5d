@@ -7,7 +7,7 @@ export default function Page() {
             data-oid="1"
         >
             <h1 className="text-4xl md:text-5xl font-semibold tracking-tight" data-oid="3">
-                Om World
+                Our World
             </h1>
             <img
                 src="./favicon.ico"
